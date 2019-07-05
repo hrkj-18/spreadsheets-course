@@ -5,10 +5,10 @@
 142
 
 ### Mathematics
-/+
-/-
-/*
-/
+\+  <br>
+\- <br>
+\* <br>
+/ <br>
 ^
 
 ### Percentages
